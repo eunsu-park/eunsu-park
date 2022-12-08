@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Eunsu Park
 
+I'm a postdoc at Korea Astronomy and Space Science (KASI) institute since June 2022.
+
 <!--
 **eunsu-park/eunsu-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
