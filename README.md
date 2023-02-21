@@ -2,7 +2,7 @@
 
 I'm a postdoc at Korea Astronomy and Space Science (KASI) institute since June 2022.
 
-You can find my details here -> https://www.eunsu.me
+You can find my details here -> http://www.eunsu.me
 
 <!--
 **eunsu-park/eunsu-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
